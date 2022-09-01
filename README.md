@@ -1,4 +1,4 @@
-\\ Task requirements
+Task requirements
 
 Create an executable .jar file. You can use Java version up to 15 inclusive. Please, be aware that if you use any Java version older than 15, some classes which were included into JRE in previous versions (like javafx) are not available in JRE 15. In this case the solution will fail with an exception on the first test case.
 
