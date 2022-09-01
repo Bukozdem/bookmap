@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bookmap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bookmap_jar</output-path>
+    <root id="archive" name="bookmap.jar">
+      <element id="module-output" name="bookmap" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
